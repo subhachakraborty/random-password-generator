@@ -1,2 +1,3 @@
-# random_password_generator
+# random password generator
 It can generate random strong password.
+It is written in python.
